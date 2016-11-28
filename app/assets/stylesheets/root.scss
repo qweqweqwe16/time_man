@@ -1,0 +1,20 @@
+// Place all the styles related to the root controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body, h1,h2,h3,h4,h5,h6 {
+	font-family: "Montserrat", sans-serif
+	} 
+.w3-row-padding img {
+	margin-bottom: 12px
+	}
+ .bgimg { 
+ 	background-position: center; 
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	background-image: url('/assets/jira_logo.jpg'); 
+ 	min-height: 100%;
+ 	} 
+a{
+	text-decoration: none;
+}
