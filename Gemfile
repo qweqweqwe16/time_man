@@ -53,3 +53,6 @@ group :development do
   gem 'meta_request'
 end
 gem 'pg'
+group :production do
+  gem 'rails_12factor'
+end
